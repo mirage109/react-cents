@@ -28,7 +28,7 @@ Questo progetto consiste in due parti: il backend e il frontend. Il backend è r
 
 2.  Aggiungi il sottomodulo frontend eseguendo il seguente comando:
 
-    ````sh
+    ```sh
     git submodule add https://github.com/mirage109/cents-front frontend
     ```
 
@@ -47,7 +47,7 @@ Questo progetto consiste in due parti: il backend e il frontend. Il backend è r
 5.  Avvia l'applicazione React eseguendo il comando:
 
     ```sh
-        npm start
+    npm start
     ```
 
     L'applicazione verrà avviata in modalità sviluppo sulla porta 3000.
