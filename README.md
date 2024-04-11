@@ -30,7 +30,7 @@ Questo progetto consiste in due parti: il backend e il frontend. Il backend è r
 
     ````sh
     git submodule add https://github.com/mirage109/cents-front frontend
-     ```
+    ```
 
 3.  Passa alla cartella frontend.
 
@@ -46,9 +46,9 @@ Questo progetto consiste in due parti: il backend e il frontend. Il backend è r
 
 5.  Avvia l'applicazione React eseguendo il comando:
 
-        ```sh
+    ```sh
         npm start
-        ```
+    ```
 
     L'applicazione verrà avviata in modalità sviluppo sulla porta 3000.
 
