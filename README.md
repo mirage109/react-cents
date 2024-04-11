@@ -31,7 +31,6 @@ Questo progetto consiste in due parti: il backend e il frontend. Il backend è r
     ````sh
     git submodule add https://github.com/mirage109/cents-front frontend
      ```
-    ````
 
 3.  Passa alla cartella frontend.
 
